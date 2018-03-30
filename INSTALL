@@ -1,0 +1,9 @@
+Building BITSTANCE
+
+See doc/readme-qt.md for instructions on building BITSTANCE-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BITSTANCE.
+
+See doc/build-*.md for instructions on building bitstanced,
+the intended-for-services, no-graphical-interface, reference
+implementation of BITSTANCE.
